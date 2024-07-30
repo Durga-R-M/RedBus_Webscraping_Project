@@ -31,6 +31,3 @@ Python, Selenium(Purpose of Web scraping), Mysql, Streamlit, Pandas(Library), Da
 **Findings**
 
 Findings--> Gaining a significant amount of data to utilize in the future for critical analysis and competitive analysis for any other travel company or redBus.
-
-**Prerequesting Library**
--> All the Prerequesting library details are in the redBusPrequerestLibrary.txt 
